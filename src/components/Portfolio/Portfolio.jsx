@@ -24,6 +24,20 @@ class Portfolio extends Component {
         title: "Future Social Media Web 3.0 d'App",
         text:
           "Our Future Social Media Web 3.0 dApp is decentralized, interactive, secure, scalable, user-friendly, immersive, innovative, efficient, engaging, and blockchain-powered."
+      },
+      {
+        img:
+          "https://img.freepik.com/free-vector/cyber-security-banner-concept_23-2148658523.jpg",
+        title: "Cyber Security",
+        text:
+          "Cyber security ensures data protection, privacy, threat prevention, and risk management."
+      },
+      {
+        img:
+          "https://www.scnsoft.com/blog-pictures/information-security/web_application_security_code_review_vs_penetration_testing-01_1.png",
+        title: "Penetration Testing/Secure Code Review",
+        text:
+          "Penetration testing and secure code review identify vulnerabilities and enhance security."
       }
     ];
   }
